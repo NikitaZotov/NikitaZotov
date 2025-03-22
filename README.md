@@ -1,8 +1,11 @@
-# 🏆 Github Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=NikitaZotov)](https://github.com/NikitaZotov/github-profile-trophy)
+## 🏆 GitHub Trophies
 
-# 🔥 Streak Statistics
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NikitaZotov)](https://git.io/streak-stats)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=NikitaZotov&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-# 📚 Used languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaZotov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## 🔥 Contribution Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NikitaZotov&theme=dark)](https://git.io/streak-stats)
+
+## 📚 Used Languages
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaZotov&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
