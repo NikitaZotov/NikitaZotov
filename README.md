@@ -16,9 +16,7 @@ Welcome to my GitHub profile! Here's a quick look at my contributions and activi
 
 ### 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NikitaZotov&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Extra Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaZotov&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NikitaZotov&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ⏰ WakaTime Stats
 
